@@ -1,16 +1,16 @@
 #newobject {
 	/*background-color: grey;*/
-	width: 100%;
+	max-width: 100%;
 	font-family: "Courier New", Courier, monospace;
-	font-size: 0.90em;
-	margin: 20px;
+	font-size: 0.80em;
+	margin: 0.5em;
 }
 
 #definition {
-	width: 80%;
+	max-width: 80%;
 	text-align: left;
 	font-family: "Courier New";
-	margin: 0px 20px 0px 20px;
+	margin: 0px 0.75em 0px 0.75em;
 }
 
 a {
